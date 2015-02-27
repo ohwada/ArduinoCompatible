@@ -1,5 +1,4 @@
 # ArduinoCompatible
-===============
 
 Arduino Compatible Board
 
